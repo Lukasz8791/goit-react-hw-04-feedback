@@ -1,0 +1,19 @@
+.optionsWrapper {
+  margin-top: 15px;
+}
+
+.optionButton {
+  margin-right: 10px;
+  background-color: turquoise;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 26px;
+  font-weight: 700;
+
+  &:hover {
+    background-color: #2980b9;
+  }
+}
